@@ -1,0 +1,13 @@
+table, th, td {
+  border: 1px solid black;
+}
+
+th,td {
+  padding: 4px;
+}
+
+body {
+  padding: 12px;
+  background-color: thistle;
+  font: 15px Verdana, sans-serif;
+}
